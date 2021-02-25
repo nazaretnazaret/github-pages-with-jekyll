@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: Disco 2000
+author: Debra Ramirez
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Bringing back songs that gave humanity countless hours of dance
+  and memories while keeping it modern through nu-disco and disco
+  revival. Boogie with us!
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: n_zaret # DO NOT include the @ character, or else the build will fail!
+github_username:  nazaretnazaret # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
